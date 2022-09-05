@@ -1,0 +1,9 @@
+How to run:
+
+command: 'make' run binaries
+
+command: 'make populate' to populate the database
+
+command: 'make server' to run as server
+
+command: 'make client' to run as client
